@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chill-player/static/css/main.1bc5f631.chunk.css",
+    "main.js": "/chill-player/static/js/main.acd4493c.chunk.js",
+    "main.js.map": "/chill-player/static/js/main.acd4493c.chunk.js.map",
+    "runtime-main.js": "/chill-player/static/js/runtime-main.74c4953f.js",
+    "runtime-main.js.map": "/chill-player/static/js/runtime-main.74c4953f.js.map",
+    "static/js/2.4c13c4cf.chunk.js": "/chill-player/static/js/2.4c13c4cf.chunk.js",
+    "static/js/2.4c13c4cf.chunk.js.map": "/chill-player/static/js/2.4c13c4cf.chunk.js.map",
+    "static/js/3.730dd951.chunk.js": "/chill-player/static/js/3.730dd951.chunk.js",
+    "static/js/3.730dd951.chunk.js.map": "/chill-player/static/js/3.730dd951.chunk.js.map",
+    "index.html": "/chill-player/index.html",
+    "static/css/main.1bc5f631.chunk.css.map": "/chill-player/static/css/main.1bc5f631.chunk.css.map",
+    "static/js/2.4c13c4cf.chunk.js.LICENSE.txt": "/chill-player/static/js/2.4c13c4cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74c4953f.js",
+    "static/js/2.4c13c4cf.chunk.js",
+    "static/css/main.1bc5f631.chunk.css",
+    "static/js/main.acd4493c.chunk.js"
+  ]
+}
